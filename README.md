@@ -1,9 +1,14 @@
-# CODETECH-task2
+ CODETECH-task2
 NAME:Annu Keerthi
-COMPANY NAME:CODETECH IT SOUTIONS 
+
+COMPANY NAME:CODETECH IT SOUTIONS
+
 ID:CT0806DT
+
 DOMAINl:Full Stack Developer
+
 DURTION:dec 20th 2024 to jan 20th 2025
+
 creating a frontend to manage blog posts and a backend for API and database integration:
 
 Project Overview
